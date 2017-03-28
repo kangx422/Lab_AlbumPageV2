@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Lab - Album Page V1</title>
+</head>
+<body>
+	<h1>A Head Full of Dreams</h1>
+		<h2>Ed Sheeran</h2>
+			<h3>December 4, 2015</h3>
+				<p>A Head Full of Dreams is the seventh studio album by the British rock band Coldplay. It was released on 4 December 2015 by Parlophone and Atlantic with a 5.1 Surround Blu-ray Audio version being released via the band's website on 23 September 2016.</p>
+		<h2>Band Members</h2>
+			<ul style="list-style-type: none">
+				<li>Christ Martin - Piano</li>
+				<li>Guy Berryman - Acoustic guitar</li>
+				<li>Johnny Buckland - Lead guitar</li>
+				<li>Will Champion - Piano</li>
+			</ul>
